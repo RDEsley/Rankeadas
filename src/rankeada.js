@@ -26,4 +26,3 @@ const vitorias = 85;
 const derrotas = 20;
 
 exibirResultado(vitorias, derrotas);
-
